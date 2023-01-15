@@ -7,7 +7,7 @@
 <br>Implement a program that finds the missing number in an array of consecutive integers.<br>
 <br>**Implement a program that takes in a string and replaces all occurrences of a given character with another character.**<br>
 <br>**Implement a program that finds the common elements between two arrays of integers.**<br>
-<br>Implement a program that finds the second highest number in an array of integers.<br>
+<br>**Implement a program that finds the second highest number in an array of integers.**<br>
 <br>Implement a program that checks whether a given number is a prime number or not.<br>
 <br>Implement a program that calculates the area of a square and a circle using method overloading.<br>
 <br>**Implement a program that calculates the value of a word in Scrabble.**<br>
